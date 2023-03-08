@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My pie chart</h1>
+<p>pie chart</p >
+<h2>HTML Image</h2>
+
+
+</body>
+
+< img src="https://i.postimg.cc/rFvdJwSp/4e350b33b08d910929621bb4bd5f4ff.jpg" alt="Our products" width="300" height="300">
+</html>
